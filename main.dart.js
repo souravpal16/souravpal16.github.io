@@ -54273,7 +54273,7 @@ this.bj(0)},
 P:function(a,b){return this.a.c}}
 F.AI.prototype={
 P:function(a,b){var s=X.a9w(null,C.qB)
-return new S.rj(P.ax(["/",new F.Ro(),"contactMePage",new F.Rp(),"projectsPage",new F.Rq()],t.N,t.hw),"Flutter Demo",s,null)}}
+return new S.rj(P.ax(["/",new F.Ro(),"/contactMePage",new F.Rp(),"/projectsPage",new F.Rq()],t.N,t.hw),"Flutter Demo",s,null)}}
 F.Ro.prototype={
 $1:function(a){return new V.mW(null)},
 $S:345}
@@ -54292,7 +54292,7 @@ Q.YI.prototype={
 $0:function(){K.l2(this.a).jz("/",t.X)},
 $S:0}
 Q.YJ.prototype={
-$0:function(){K.l2(this.a).jz("projectsPage",t.X)},
+$0:function(){K.l2(this.a).jz("/projectsPage",t.X)},
 $S:0}
 Q.YK.prototype={
 $0:function(){},
@@ -54319,10 +54319,10 @@ V.Pr.prototype={
 $0:function(){},
 $S:0}
 V.Ps.prototype={
-$0:function(){K.l2(this.a).jz("projectsPage",t.X)},
+$0:function(){K.l2(this.a).jz("/projectsPage",t.X)},
 $S:0}
 V.Pt.prototype={
-$0:function(){K.l2(this.a).jz("contactMePage",t.X)},
+$0:function(){K.l2(this.a).jz("/contactMePage",t.X)},
 $S:0}
 V.Az.prototype={
 P:function(a,b){var s=null,r=b.a4(t.w).f,q=t.p
@@ -54352,7 +54352,7 @@ A.SL.prototype={
 $0:function(){},
 $S:0}
 A.SM.prototype={
-$0:function(){K.l2(this.a).jz("contactMePage",t.X)},
+$0:function(){K.l2(this.a).jz("/contactMePage",t.X)},
 $S:0}
 E.ic.prototype={
 gl:function(a){return this.b},
